@@ -1,5 +1,5 @@
 // Options
-const CLIENT_ID = "747389777524-2k1d92p2es9eed7qesd1kfe81a7ib48t.apps.googleusercontent.com";
+const CLIENT_ID = "747389777524-q6qj3m5ra0md8traispai2bbk7v7fc03.apps.googleusercontent.com";
 const DISCOVERY_DOCS = ["https://www.googleapis.com/discovery/v1/apis/youtube/v3/rest"];
 const SCOPES = "https://www.googleapis.com/auth/youtube.readonly";
 
